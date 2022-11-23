@@ -91,6 +91,11 @@ video {
     font: inherit;
     vertical-align: baseline;
 }
+
+li {
+    list-style: inside;
+}
+
 img,
 video {
     width: 100;
