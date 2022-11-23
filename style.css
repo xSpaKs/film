@@ -59,6 +59,7 @@ span {
         /* Créer une bordure */
         border: solid;
         border-width: 5px;
+        border-color: #303030;
     }
 
     /* Intervertir l'image et la div */
